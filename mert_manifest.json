@@ -1,0 +1,26 @@
+{
+  "repo": "m-a-p/MERT-v1-95M",
+  "revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+  "files": {
+    "config.json": {
+      "size": 1817,
+      "sha256": null
+    },
+    "configuration_MERT.py": {
+      "size": 5340,
+      "sha256": null
+    },
+    "modeling_MERT.py": {
+      "size": 18033,
+      "sha256": null
+    },
+    "preprocessor_config.json": {
+      "size": 211,
+      "sha256": null
+    },
+    "pytorch_model.bin": {
+      "size": 377552987,
+      "sha256": "a2b8b747f72c06e0595aeae41ae5473f4364938c6b39b2c58be38c48e6bd3fcd"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "repo": "amaai-lab/music2emo",
+  "revision": "b036e59471583c3d5b30c69e63e8c7323cc36c4a",
+  "files": {
+    "inference/data/btc_model_large_voca.pt": {
+      "size": 12229576,
+      "sha256": "1673d23f8f9a55ae7f9e8b80a51da616debb22675b8d8b67ea6ce0ef37b0ab51"
+    },
+    "saved_models/J_all.ckpt": {
+      "size": 12958092,
+      "sha256": "deaceb291f7974deb688167d3639b7f6eb66eb0715824668618393777d1e07a5"
+    }
+  }
+}
